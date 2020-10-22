@@ -4,18 +4,9 @@
       "/Users/maiara/Desktop/bookmark_manager/spec/bookmarks_spec.rb": {
         "lines": [
           1,
-          null,
-          1,
-          1,
-          1,
           1,
           null,
           1,
-          1,
-          1,
-          null,
-          1,
-          null,
           1,
           1,
           1,
@@ -25,6 +16,25 @@
           1,
           1,
           null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
           1,
           null,
           null,
@@ -45,9 +55,20 @@
           null
         ]
       },
+      "/Users/maiara/Desktop/bookmark_manager/spec/database_helpers.rb": {
+        "lines": [
+          null,
+          1,
+          1,
+          1,
+          1,
+          null
+        ]
+      },
       "/Users/maiara/Desktop/bookmark_manager/spec/features/creating_bookmarks_spec.rb": {
         "lines": [
           null,
+          1,
           1,
           1,
           1,
@@ -65,11 +86,11 @@
           null,
           1,
           1,
-          1,
           null,
           1,
           1,
           1,
+          null,
           null,
           1,
           null,
@@ -81,6 +102,6 @@
         ]
       }
     },
-    "timestamp": 1603374771
+    "timestamp": 1603392116
   }
 }
