@@ -27,4 +27,8 @@ For tests:
 3. Create a table using  ``CREATE TABLE bookmarks(id SERIAL PRIMARY KEY, url VARCHAR(60));``
 <!-- 4. Run the query we have saved in the file `01_create_bookmarks_table.sql` -->
 
+## Decompose the requirement 'add new bookmarks' into a User Story.
 
+As a user
+So I can update my bookmarks
+I would like to add new bookmarks to my list.

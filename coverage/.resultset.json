@@ -21,6 +21,11 @@
           1,
           null,
           null,
+          1,
+          1,
+          1,
+          null,
+          1,
           null,
           null,
           null,
@@ -33,6 +38,23 @@
           null,
           null,
           null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      },
+      "/Users/maiara/Desktop/bookmark_manager/spec/features/creating_bookmarks_spec.rb": {
+        "lines": [
+          null,
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
           null,
           null
         ]
@@ -59,6 +81,6 @@
         ]
       }
     },
-    "timestamp": 1603300496
+    "timestamp": 1603374771
   }
 }
